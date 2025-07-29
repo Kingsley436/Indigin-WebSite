@@ -8,7 +8,7 @@ const NavigationBar = () => {
       <Container>
         <LinkContainer to="/">
           <Navbar.Brand>
-            <img src="../src/assets/logo.svg" alt="" height="60px;" width="100%;" object-fit="cover;" />
+            <img src="../src/assets/logo.svg" alt="Indigin Group" height="60px;" width="100%;" object-fit="cover;" />
             {/* <strong>Indigin Group</strong> */}
           </Navbar.Brand>
         </LinkContainer>
